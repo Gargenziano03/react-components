@@ -5,6 +5,16 @@
     box-sizing: border-box;
 }
 
+/*utilities*/
+.container {
+    margin: auto;
+    width: 80%;
+}
+
+img {
+    max-width: 100%;
+}
+
 header {
     display: flex;
     align-items: center;

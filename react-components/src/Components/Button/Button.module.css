@@ -1,0 +1,13 @@
+.btn {
+    padding: .5em.75em;
+    border: none;
+    border-radius: 3px;
+    font-size: 12px;
+    text-decoration: none;
+    background-color: palegoldenrod;
+
+    &:hover {
+        background-color: black;
+        color: lightgra y;
+    }
+}

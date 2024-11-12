@@ -1,4 +1,5 @@
 import BlogImg from '../../assets/image/film.jpg'
+import Button from '../Button/Button'
 export default function BlogCard() {
     return (
         <div className="blog-card">
