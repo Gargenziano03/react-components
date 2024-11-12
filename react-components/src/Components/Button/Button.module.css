@@ -4,10 +4,10 @@
     border-radius: 3px;
     font-size: 12px;
     text-decoration: none;
-    background-color: palegoldenrod;
+    background-color: rgb(225, 224, 214);
 
     &:hover {
-        background-color: black;
+        background-color: rgb(111, 102, 102);
         color: lightgra y;
     }
 }
